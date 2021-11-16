@@ -1,0 +1,29 @@
+.container {
+  margin: 20px;
+}
+.lbl,
+.available,
+.btnOperator {
+  background-color: rgb(168, 219, 248);
+  height: 90px;
+  padding-top: 60px;
+  text-align: right;
+}
+.btnOperator {
+  background-color: rgb(215, 238, 252);
+  text-align: center;
+}
+.col-md-3,
+.col-md-6,
+.col {
+  height: 75px;
+  padding-top: 26px;
+}
+div {
+  border: 1px solid gray;
+  text-align: center;
+  background-color: rgb(215, 238, 252);
+}
+div :hover{
+  background-color:rgba(215, 238, 252, 0.671); ;
+}
